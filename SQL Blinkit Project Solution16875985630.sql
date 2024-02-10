@@ -1,6 +1,4 @@
-
 use fingertips;
-
 #Q1 Import Data from table Grocery Sales using the provided CSV File.
 select * from Grocery_Store;
 
